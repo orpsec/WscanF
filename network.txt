@@ -1,0 +1,31 @@
+SSID                        BSSID              MODE   CHAN  FREQ      SIGNAL 
+******                     60:22:32:30:AC:E5  Infra  6     2437 MHz  100    
+--                          62:22:32:10:AC:E5  Infra  6     2437 MHz  95     
+TurkTelekom_T3BF6           5C:63:BF:42:28:4E  Infra  1     2412 MHz  62     
+*****                     60:22:32:30:AD:15  Infra  11    2462 MHz  62     
+*****                     60:22:32:30:A8:1D  Infra  11    2462 MHz  59     
+Kablonet Netmaster-5847-G   FC:4A:E9:6A:58:4C  Infra  13    2472 MHz  49     
+SUPERONLINE_WiFi_3051       64:6D:6C:ED:8E:2C  Infra  8     2447 MHz  35     
+--                          62:22:32:10:B1:95  Infra  6     2437 MHz  32     
+NetMASTER Uydunet-1710      18:48:59:20:46:3B  Infra  1     2412 MHz  29     
+bekoo                       78:8C:B5:04:9C:A6  Infra  6     2437 MHz  29     
+TURKSAT-KABLONET-2F94-2.4G  18:48:59:1A:4F:B8  Infra  13    2472 MHz  29     
+Gungoren                    DC:F7:19:45:66:C0  Infra  1     2412 MHz  25     
+Redmi Note 10               66:41:72:B5:CE:BC  Infra  6     2437 MHz  22     
+
+SSID                            BSSID              MODE   CHAN  FREQ      SIGNAL 
+*******                         60:22:32:30:AC:E5  Infra  6     2437 MHz  89     
+--                              62:22:32:10:AC:E5  Infra  6     2437 MHz  87     
+*******                         60:22:32:30:AD:15  Infra  11    2462 MHz  59     
+--                              62:22:32:10:AD:15  Infra  11    2462 MHz  57     
+--                              62:22:32:10:A8:1D  Infra  11    2462 MHz  54     
+*******                         60:22:32:30:A8:1D  Infra  11    2462 MHz  54     
+*******                         60:22:32:30:AD:9D  Infra  11    2462 MHz  35     
+Kablonet Netmaster-B54E-G       18:48:59:0F:F1:F4  Infra  1     2412 MHz  32     
+Millenicom_A276                 B0:95:75:0E:A2:76  Infra  4     2427 MHz  29     
+Kablonet Netmaster-88EA-G_plus  8C:DE:F9:0D:1B:C3  Infra  1     2412 MHz  27     
+Gungoren                        DC:F7:19:45:66:C0  Infra  1     2412 MHz  27     
+Kablonet Netmaster-5847-G       FC:4A:E9:6A:58:4C  Infra  13    2472 MHz  27     
+SUPERONLINE-WiFi_0117           FC:3F:7C:97:9A:E3  Infra  10    2457 MHz  25     
+NetMASTER Uydunet-D98E          00:1C:7B:FD:C9:41  Infra  13    2472 MHz  25     
+TurkTelekom_T88B6               5C:63:BF:03:A3:F6  Infra  1     2412 MHz  22
