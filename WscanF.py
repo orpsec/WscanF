@@ -57,16 +57,19 @@ def main():
     print("2. Regular scan: Performs a standard port scan.")
     print("3. Quick scan: Performs a fast port scan.")
     print("4. Slow scan: Performs a slow comprehensive scan.")
-    scan_type = input("Select the Nmap scan option to use (1-4): ")
+    print("5. Fast scan: UDP and verbose output")
+    scan_type = input("Select the Nmap scan option to use (1-5): ")
 
     if scan_type == "1":
-        scan_type = "-O"
+        scan_type = "-sS -sV -v -A -T3 -O"
     elif scan_type == "2":
-        scan_type = "-T4"
+        scan_type = "-sS -sV -A -T4 -v"
     elif scan_type == "3":
         scan_type = "-T4 -F"
     elif scan_type == "4":
         scan_type = "-T1"
+    elif scan_type == "5":
+        scan_type = "-sS -sV -A -F -v"    
     else:
         print("Invalid choice. Exiting the program.")
         return
